@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Valorant Stats</title>
+    <style>
+        table.data { border-collapse: collapse; width: 100%; }
+        table.data, th, td { border: 1px solid black; padding: 5px; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <h1>Valorant Gameplay Stats</h1>
+    <h2>Summary Stats</h2>
+    {% for table in summary %}
+        {{ table | safe }}
+    {% endfor %}
+    <h2>Stats Table</h2>
+    {% for table in tables %}
+        {{ table | safe }}
+    {% endfor %}
+    <h2>K/D/A Trends</h2>
+    {{ graph | safe }}
+</body>
+</html>
