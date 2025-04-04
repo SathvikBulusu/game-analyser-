@@ -6,10 +6,10 @@ this is a repo for the project that I am working which will give insights to pla
 
  ## given here is the phase 0 pictures of the idea i am working on 
 
-![the pic](<final stamp 1.jpg>)
+![the pic](<Results/final stamp 1.jpg>)
 
-![pic 2](<final stamp 2.jpg>)
+![pic 2](<Results/final stamp 2.jpg>)
 
-![pic 3](<final stamp 3.jpg>)
+![pic 3](<Results/final stamp 3.jpg>)
 
 given here are the pictures from the work i have done 
