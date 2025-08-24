@@ -1,4 +1,4 @@
-# game-analyser-
+# Game-Analyser-
 
 ## Goal : To provide recommendations to gamers to improve their gaming skills 
 
